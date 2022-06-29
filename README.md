@@ -28,4 +28,6 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnshuPathak-88825.AnshuPathak-88825&left_color=grey&right_color=blue) -->
   ![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshuPathak-88825&show_icons=true&theme=tokyonight)
+  ![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=AnshuPathak-88825&show_icons=true&locale=en&layout=compact&theme=onedark)
+  
   
