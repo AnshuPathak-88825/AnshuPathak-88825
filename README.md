@@ -32,4 +32,5 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
   ![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshuPathak-88825&show_icons=true&theme=tokyonight)
   ![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=AnshuPathak-88825&show_icons=true&locale=en&layout=compact&theme=onedark)
   
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnshuPathak-88825&theme=vue-dark&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
+
