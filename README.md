@@ -4,7 +4,14 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
 
 ## Socials:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Anshu_pathak12)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-kumar-pathak/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anshu_pathak12/?hl=en) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhanshupathak88825@gmail.com)[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://anshupathak.hashnode.dev/)
+<div align="center">
+<a href="https://twitter.com/Anshustwt"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+<a href="https://www.instagram.com/shubhanshustwt"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
+<a href="https://www.linkedin.com/in/anshu-kumar-pathak/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+<a href="https://anshupathak.hashnode.dev/"><img src="Hashnode.png" alt="Hashnode" width="30"></a>
+
+
+</div>
 
 
 - Most used line of code  `git commit -m "Initial Commit"`
