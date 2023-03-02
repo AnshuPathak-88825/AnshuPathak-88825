@@ -8,7 +8,6 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
 <a href="https://twitter.com/Anshustwt"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 <a href="https://www.instagram.com/shubhanshustwt"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
 <a href="https://www.linkedin.com/in/anshu-kumar-pathak/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-<a href="https://anshupathak.hashnode.dev/"><img src="Hashnode.png" alt="Hashnode" width="30"></a>
 
 
 </div>
@@ -33,11 +32,12 @@ A Fullstack Webdeveloper and Open source enthusiast from India :india:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+[![Anshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnshuPathak-88825&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnshuPathak-88825&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuPathak-88825&theme=tokyonight" />
+</p>
 
 
-  <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnshuPathak-88825.AnshuPathak-88825&left_color=grey&right_color=blue) -->
-  ![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshuPathak-88825&show_icons=true&theme=tokyonight)
-  ![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=AnshuPathak-88825&show_icons=true&locale=en&layout=compact&theme=onedark)
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnshuPathak-88825&theme=vue-dark&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
 
